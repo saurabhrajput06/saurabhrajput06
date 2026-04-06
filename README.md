@@ -7,8 +7,8 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express.js, Java
+- **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3, Javascript
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL (DBMS)
 - **Other:** JWT, Socket.io, Multer, Git & GitHub
 
