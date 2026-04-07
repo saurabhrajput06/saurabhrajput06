@@ -20,19 +20,11 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ### 🔭 Currently Working On
 - 🛠️ **Moodify-App**: A personalized mood-tracking application.
-- 📱 **Instagram Clone**: Full-stack social media features.
-- 📊 **Productivity Dashboard**: To manage tasks and goals efficiently.
 
 ### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your-email@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saurabh-rajput-704aba250/) | [Portfolio](https://yourportfolio.com) | [Email](Saurabhrajputcs9528@gmail.com)
 
 ---
 *"Coding is not just about syntax, it's about solving real-world problems."*
