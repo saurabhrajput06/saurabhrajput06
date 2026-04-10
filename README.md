@@ -27,4 +27,4 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 [LinkedIn](https://www.linkedin.com/in/saurabh-rajput-704aba250/) | [Portfolio](https://yourportfolio.com) | [Email](saurabhrajputcs9528@gmail.com)
 
 ---
-*"Coding is not just about syntax, it's about solving real-world problems."*
+"Coding is not just about syntax, it's about solving real-world problems."
