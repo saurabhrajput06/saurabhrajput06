@@ -24,7 +24,7 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 - 🛠️ **Moodify-App**: A personalized mood-tracking application.
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/saurabh-rajput-704aba250/) | [Email](saurabhrajputcs9528@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saurabh-rajput-704aba250/) | [Email](mailto:saurabhrajputcs9528@gmail.com)
 
 ---
 "Coding is not just about syntax, it's about solving real-world problems."
