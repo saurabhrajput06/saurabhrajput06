@@ -21,7 +21,7 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 ---
 
 ### 🔭 Currently Working On
-- 🛠️ **Moodify-App**: A personalized mood-tracking application.
+- 🛠️ Multi-AI-agents system and releted project.
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/saurabh-rajput-704aba250/) | [Email](mailto:saurabhrajputcs9528@gmail.com)
