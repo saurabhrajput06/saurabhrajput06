@@ -12,7 +12,7 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,sass,git,github,postman,docker,kubernetes&theme=dark" />
-  <img src="https://img.shields.io/badge/-Microservices-4B0082?style=flat-square&logo=diagram-next&logoColor=white" height="48" style="vertical-align:top; margin-left: 4px; border-radius: 10px;" />
+
 </p>
 
 ---
