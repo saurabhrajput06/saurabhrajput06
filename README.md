@@ -1,3 +1,5 @@
+<img width="800" height="199" alt="image" src="https://github.com/user-attachments/assets/223f6797-f28e-41d6-8d6b-852664908bd7" />
+
 # Hi there, I'm Saurabh Rajput! 👋
 
 ### 🚀 Full Stack Developer | AI Enthusiast | MERN Specialist
