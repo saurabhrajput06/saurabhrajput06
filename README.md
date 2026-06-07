@@ -8,7 +8,7 @@ I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCE
 
 ---
 
-### 🛠️ Tech Stack & Tools
+
 
 <h3>🛠️ Tech Stack & Tools</h3>
 
