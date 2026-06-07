@@ -5,7 +5,9 @@
 ### 🚀 Full Stack Developer | AI Enthusiast | MERN Specialist
 
 I'm a passionate developer currently pursuing my **MCA at Galgotias College (GCET)**. I love building scalable backend systems and crafting interactive user interfaces.
-
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurabhrajput06&color=blue&style=flat" alt="Profile Views" />
+</p>
 ---
 
 <h3>🛠️ Tech Stack & Tools</h3>
